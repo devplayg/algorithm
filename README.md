@@ -1,2 +1,2 @@
-# algorithm
-algorithm in go
+# algorithms
+algorithms in go
